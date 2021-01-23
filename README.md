@@ -6,7 +6,7 @@ Additionally hospital transmission of COVID-19 goes both ways. Even a doctor is 
 These problems, while not as big as COVID itself, deserve to be addressed, as they are adding to the problems faced by the general public.
 
 ## What it does
-Dr. Raspi AI is a low-cost all-in-one package that looks at a diseased area of skin, and reports the probability of a patient having a skin disease. Depending on the probability of disease, the patient will be sent to see a doctor for a professional diagnosis. If the probability is low, the patient may not need to see a doctor. In a nutshell, our solution decreases the risk of hospital transmission of diseases, as there is no contact, as well as saves the doctor’s time for negative diagnoses. 
+Dr. Raspi AI is a low-cost all-in-one package that looks at a diseased area of skin, and reports the probability of a patient having a skin disease. Depending on the probability of disease, the patient will be sent to see a doctor for a professional diagnosis. If the probability is low, the patient may not need to see a doctor. In a nutshell, our solution **decreases the risk of hospital transmission of diseases**, as there is no contact, as well as **saves the doctor’s time** for negative diagnoses. 
 
 The report and picture is also sent to the patient's email ID as a record as well as future reference. The patient can keep this picture or it can be forwarded to the doctor if the probability is high. 
 
